@@ -1,0 +1,9 @@
+false true 8794 8793 9008 nor false 9881 7000 8000
+false false 8793 8792 9007 nor false
+true false 8792 8791 9006 nor false 9880 true
+false true 8791 8790 9005 nor false 9879 6000 7000
+false false 8790 8789 9004 nor false
+true false 8789 8788 9003 nor false 9878 true
+false true 8788 8787 9002 nor false 9877 5000 6000
+false false 8787 8786 9001 nor false
+true false 8786 8785 9000 nor false 9876
